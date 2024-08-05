@@ -1,0 +1,12 @@
+langchain
+langchain_core
+langchain_community
+unstructured
+libmagic
+faiss-cpu
+streamlit
+python-dotenv
+tiktoken
+python-magic
+python-magic-bin
+transformers
